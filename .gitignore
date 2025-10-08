@@ -1,0 +1,8 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings
+target/
+test-output/
+cucumber-html-reports/
+src/test/java/com/runner/TestRunner.java
